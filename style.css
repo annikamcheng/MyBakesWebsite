@@ -1,0 +1,10 @@
+h1 { text-align: center; }
+h2 { text-align: center; }
+ img {
+    width: 200px;
+  }
+  body {
+    font-family: 'Times New Roman';
+    background: #f5dbe6;
+    color: #e184ac;
+  }
